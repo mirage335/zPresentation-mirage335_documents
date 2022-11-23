@@ -1,0 +1,6 @@
+*) Some pages (eg. PatchRap schematics) must be rotated.
+
+
+
+
+*) Printing from Acrobat Pro to Microsoft PDF Printer with 'Fit to Page' and 'Orientation Portrait' explicitly may cause sufficient reshaping and recreation of the document.
