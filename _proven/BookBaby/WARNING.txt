@@ -1,0 +1,4 @@
+
+WARNING: Filename 'BookBaby-Letter-Portrait-Soft-Cover' may in fact refer to a 'hard' cover.
+
+
